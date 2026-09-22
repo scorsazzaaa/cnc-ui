@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cnc-ui/static/css/main.e6c13ad2.css",
+    "main.js": "/cnc-ui/static/js/main.b743bdd1.js",
+    "static/js/453.c29d193d.chunk.js": "/cnc-ui/static/js/453.c29d193d.chunk.js",
+    "index.html": "/cnc-ui/index.html",
+    "main.e6c13ad2.css.map": "/cnc-ui/static/css/main.e6c13ad2.css.map",
+    "main.b743bdd1.js.map": "/cnc-ui/static/js/main.b743bdd1.js.map",
+    "453.c29d193d.chunk.js.map": "/cnc-ui/static/js/453.c29d193d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b743bdd1.js"
+  ]
+}
